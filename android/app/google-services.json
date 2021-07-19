@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475644370797",
+    "firebase_url": "https://we-rise-above.firebaseio.com",
+    "project_id": "we-rise-above",
+    "storage_bucket": "we-rise-above.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475644370797:android:d5c8821f8bfa888361c464",
+        "android_client_info": {
+          "package_name": "com.guanwenyan.WeRiseAbove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475644370797-ltiknok6db3t2m0fk3urm6kjprnuoiv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6lLlxM6vtyoM_e0iE8P75rhvrNTwEYfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475644370797-ltiknok6db3t2m0fk3urm6kjprnuoiv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475644370797-v6oluhgf0qvcqhm20ag2qllsbob11vuu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.guanwenyan.WeRiseAbove"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
